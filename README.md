@@ -7,6 +7,10 @@ https://files-manywho-com.s3.amazonaws.com/e1dbcceb-070c-4ce6-95b0-ba282aaf4f48/
 https://files-manywho-com.s3.amazonaws.com/e1dbcceb-070c-4ce6-95b0-ba282aaf4f48/qr.css
 ```
 
+There's a very simple demo here: -
+
+https://flow.manywho.com/270413cf-3d82-420b-8432-11bc064f50b4/play/QRCode/?flow-id=8ccd9aa0-9ae4-4b71-83cb-4355a1e94fb5
+
 
 # QRCodeReader
 
