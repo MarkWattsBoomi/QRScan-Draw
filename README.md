@@ -11,6 +11,7 @@ There's a very simple demo here: -
 
 https://flow.manywho.com/270413cf-3d82-420b-8432-11bc064f50b4/play/QRCode/?flow-id=8ccd9aa0-9ae4-4b71-83cb-4355a1e94fb5
 
+NOTE: If you want a reader that does all barcode formats as well as QR then check out the BarcodeScanner project instead !!!
 
 # QRCodeReader
 
